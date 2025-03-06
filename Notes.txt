@@ -1,0 +1,8 @@
+I'm a quant develop and I want to do a project with March Madness.
+
+1. I want to get some data about college basketball this year
+2. I also want to get some data about historical college basketball and use a "factor investing" model to 
+create accurate brackets and backtest the model
+3. I want to use the data to predict the outcome of the tournament
+4. I want to use Go and Python to develop a web application to view the data and make predictions
+5. I want to use Go and Python to develop a backtest framework to test different strategies and models
