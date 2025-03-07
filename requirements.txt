@@ -3,6 +3,7 @@ numpy==1.19.5
 scikit-learn==0.24.2
 requests==2.27.1
 beautifulsoup4==4.9.3
+lxml==4.9.3
 pytest==6.2.5
 jupyter==1.0.0
 plotly==5.3.1
