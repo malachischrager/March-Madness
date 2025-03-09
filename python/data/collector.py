@@ -8,13 +8,20 @@ from typing import List, Dict, Any
 
 class BasketballDataCollector:
     def __init__(self):
-        self.base_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data')
-        self.raw_path = os.path.join(self.base_path, 'raw')
-        self.processed_path = os.path.join(self.base_path, 'processed')
+        # Use absolute paths to top-level data directory
+        self.base_path = '/Users/malachischrager/Desktop/Github/March Madness'
+        self.data_path = os.path.join(self.base_path, 'data')  # Root data directory
+        self.raw_path = os.path.join(self.data_path, 'raw')
+        self.processed_path = os.path.join(self.data_path, 'processed')
         
         # Create directories if they don't exist
         os.makedirs(self.raw_path, exist_ok=True)
         os.makedirs(self.processed_path, exist_ok=True)
+        
+        # Print paths for debugging
+        print(f"Data directory: {self.data_path}")
+        print(f"Raw data path: {self.raw_path}")
+        print(f"Processed data path: {self.processed_path}")
         
         # ESPN API endpoints
         self.espn_api_base = "http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball"
