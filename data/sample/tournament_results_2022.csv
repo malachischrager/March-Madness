@@ -1,0 +1,64 @@
+year,region,round,team1,seed1,score1,team2,seed2,score2,winner
+2022,South,First Round,Arizona,1,87,Wright State,16,70,Arizona
+2022,South,First Round,Seton Hall,8,63,TCU,9,69,TCU
+2022,South,First Round,Houston,5,82,UAB,12,68,Houston
+2022,South,First Round,Illinois,4,54,Chattanooga,13,53,Illinois
+2022,South,First Round,Colorado State,6,63,Michigan,11,75,Michigan
+2022,South,First Round,Tennessee,3,88,Longwood,14,56,Tennessee
+2022,South,First Round,Ohio State,7,54,Loyola Chicago,10,41,Ohio State
+2022,South,First Round,Villanova,2,80,Delaware,15,60,Villanova
+2022,South,Second Round,Arizona,1,85,TCU,9,80,Arizona
+2022,South,Second Round,Houston,5,68,Illinois,4,53,Houston
+2022,South,Second Round,Michigan,11,76,Tennessee,3,68,Michigan
+2022,South,Second Round,Ohio State,7,61,Villanova,2,71,Villanova
+2022,South,Sweet 16,Arizona,1,60,Houston,5,72,Houston
+2022,South,Sweet 16,Michigan,11,55,Villanova,2,63,Villanova
+2022,South,Elite 8,Houston,5,44,Villanova,2,50,Villanova
+2022,East,First Round,Baylor,1,85,Norfolk State,16,49,Baylor
+2022,East,First Round,North Carolina,8,95,Marquette,9,63,North Carolina
+2022,East,First Round,Saint Mary's,5,82,Indiana,12,53,Saint Mary's
+2022,East,First Round,UCLA,4,57,Akron,13,53,UCLA
+2022,East,First Round,Texas,6,81,Virginia Tech,11,73,Texas
+2022,East,First Round,Purdue,3,78,Yale,14,56,Purdue
+2022,East,First Round,Murray State,7,92,San Francisco,10,87,Murray State
+2022,East,First Round,Kentucky,2,79,Saint Peter's,15,85,Saint Peter's
+2022,East,Second Round,Baylor,1,86,North Carolina,8,93,North Carolina
+2022,East,Second Round,Saint Mary's,5,56,UCLA,4,72,UCLA
+2022,East,Second Round,Texas,6,71,Purdue,3,81,Purdue
+2022,East,Second Round,Murray State,7,60,Saint Peter's,15,70,Saint Peter's
+2022,East,Sweet 16,North Carolina,8,73,UCLA,4,66,North Carolina
+2022,East,Sweet 16,Purdue,3,64,Saint Peter's,15,67,Saint Peter's
+2022,East,Elite 8,North Carolina,8,69,Saint Peter's,15,49,North Carolina
+2022,Midwest,First Round,Kansas,1,83,Texas Southern,16,56,Kansas
+2022,Midwest,First Round,San Diego State,8,69,Creighton,9,72,Creighton
+2022,Midwest,First Round,Iowa,5,63,Richmond,12,67,Richmond
+2022,Midwest,First Round,Providence,4,66,South Dakota State,13,57,Providence
+2022,Midwest,First Round,LSU,6,54,Iowa State,11,59,Iowa State
+2022,Midwest,First Round,Wisconsin,3,67,Colgate,14,60,Wisconsin
+2022,Midwest,First Round,USC,7,66,Miami,10,68,Miami
+2022,Midwest,First Round,Auburn,2,80,Jacksonville State,15,61,Auburn
+2022,Midwest,Second Round,Kansas,1,79,Creighton,9,72,Kansas
+2022,Midwest,Second Round,Richmond,12,51,Providence,4,79,Providence
+2022,Midwest,Second Round,Iowa State,11,54,Wisconsin,3,49,Iowa State
+2022,Midwest,Second Round,Miami,10,79,Auburn,2,61,Miami
+2022,Midwest,Sweet 16,Kansas,1,66,Providence,4,61,Kansas
+2022,Midwest,Sweet 16,Iowa State,11,56,Miami,10,70,Miami
+2022,Midwest,Elite 8,Kansas,1,76,Miami,10,50,Kansas
+2022,West,First Round,Gonzaga,1,93,Georgia State,16,72,Gonzaga
+2022,West,First Round,Boise State,8,54,Memphis,9,64,Memphis
+2022,West,First Round,UConn,5,63,New Mexico State,12,70,New Mexico State
+2022,West,First Round,Arkansas,4,75,Vermont,13,71,Arkansas
+2022,West,First Round,Alabama,6,64,Notre Dame,11,78,Notre Dame
+2022,West,First Round,Texas Tech,3,97,Montana State,14,62,Texas Tech
+2022,West,First Round,Michigan State,7,74,Davidson,10,73,Michigan State
+2022,West,First Round,Duke,2,78,Cal State Fullerton,15,61,Duke
+2022,West,Second Round,Gonzaga,1,82,Memphis,9,78,Gonzaga
+2022,West,Second Round,New Mexico State,12,48,Arkansas,4,53,Arkansas
+2022,West,Second Round,Notre Dame,11,53,Texas Tech,3,59,Texas Tech
+2022,West,Second Round,Michigan State,7,76,Duke,2,85,Duke
+2022,West,Sweet 16,Gonzaga,1,68,Arkansas,4,74,Arkansas
+2022,West,Sweet 16,Texas Tech,3,73,Duke,2,78,Duke
+2022,West,Elite 8,Arkansas,4,69,Duke,2,78,Duke
+2022,Final Four,Final Four,Villanova,2,65,Kansas,1,81,Kansas
+2022,Final Four,Final Four,North Carolina,8,81,Duke,2,77,North Carolina
+2022,Final Four,Championship,Kansas,1,72,North Carolina,8,69,Kansas

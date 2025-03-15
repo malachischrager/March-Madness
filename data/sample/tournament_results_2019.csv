@@ -1,0 +1,64 @@
+year,region,round,team1,seed1,score1,team2,seed2,score2,winner
+2019,East,First Round,Duke,1,85,North Dakota State,16,62,Duke
+2019,East,First Round,VCU,8,58,UCF,9,73,UCF
+2019,East,First Round,Mississippi State,5,76,Liberty,12,80,Liberty
+2019,East,First Round,Virginia Tech,4,66,Saint Louis,13,52,Virginia Tech
+2019,East,First Round,Maryland,6,79,Belmont,11,77,Maryland
+2019,East,First Round,LSU,3,79,Yale,14,74,LSU
+2019,East,First Round,Louisville,7,56,Minnesota,10,86,Minnesota
+2019,East,First Round,Michigan State,2,76,Bradley,15,65,Michigan State
+2019,East,Second Round,Duke,1,77,UCF,9,76,Duke
+2019,East,Second Round,Liberty,12,58,Virginia Tech,4,67,Virginia Tech
+2019,East,Second Round,Maryland,6,69,LSU,3,67,LSU
+2019,East,Second Round,Minnesota,10,50,Michigan State,2,70,Michigan State
+2019,East,Sweet 16,Duke,1,75,Virginia Tech,4,73,Duke
+2019,East,Sweet 16,LSU,3,63,Michigan State,2,80,Michigan State
+2019,East,Elite 8,Duke,1,67,Michigan State,2,68,Michigan State
+2019,West,First Round,Gonzaga,1,87,Fairleigh Dickinson,16,49,Gonzaga
+2019,West,First Round,Syracuse,8,69,Baylor,9,78,Baylor
+2019,West,First Round,Marquette,5,64,Murray State,12,83,Murray State
+2019,West,First Round,Florida State,4,76,Vermont,13,69,Florida State
+2019,West,First Round,Buffalo,6,91,Arizona State,11,74,Buffalo
+2019,West,First Round,Texas Tech,3,72,Northern Kentucky,14,57,Texas Tech
+2019,West,First Round,Nevada,7,61,Florida,10,70,Florida
+2019,West,First Round,Michigan,2,74,Montana,15,55,Michigan
+2019,West,Second Round,Gonzaga,1,83,Baylor,9,71,Gonzaga
+2019,West,Second Round,Murray State,12,62,Florida State,4,90,Florida State
+2019,West,Second Round,Buffalo,6,58,Texas Tech,3,78,Texas Tech
+2019,West,Second Round,Florida,10,49,Michigan,2,64,Michigan
+2019,West,Sweet 16,Gonzaga,1,72,Florida State,4,58,Gonzaga
+2019,West,Sweet 16,Texas Tech,3,63,Michigan,2,44,Texas Tech
+2019,West,Elite 8,Gonzaga,1,69,Texas Tech,3,75,Texas Tech
+2019,South,First Round,Virginia,1,71,Gardner-Webb,16,56,Virginia
+2019,South,First Round,Ole Miss,8,72,Oklahoma,9,95,Oklahoma
+2019,South,First Round,Wisconsin,5,54,Oregon,12,72,Oregon
+2019,South,First Round,Kansas State,4,64,UC Irvine,13,70,UC Irvine
+2019,South,First Round,Villanova,6,61,Saint Mary's,11,57,Villanova
+2019,South,First Round,Purdue,3,61,Old Dominion,14,48,Purdue
+2019,South,First Round,Cincinnati,7,72,Iowa,10,79,Iowa
+2019,South,First Round,Tennessee,2,77,Colgate,15,70,Tennessee
+2019,South,Second Round,Virginia,1,63,Oklahoma,9,51,Virginia
+2019,South,Second Round,Oregon,12,54,UC Irvine,13,73,Oregon
+2019,South,Second Round,Villanova,6,61,Purdue,3,87,Purdue
+2019,South,Second Round,Iowa,10,77,Tennessee,2,83,Tennessee
+2019,South,Sweet 16,Virginia,1,53,Oregon,12,49,Virginia
+2019,South,Sweet 16,Purdue,3,99,Tennessee,2,94,Purdue
+2019,South,Elite 8,Virginia,1,80,Purdue,3,75,Virginia
+2019,Midwest,First Round,North Carolina,1,88,Iona,16,73,North Carolina
+2019,Midwest,First Round,Utah State,8,61,Washington,9,78,Washington
+2019,Midwest,First Round,Auburn,5,78,New Mexico State,12,77,Auburn
+2019,Midwest,First Round,Kansas,4,87,Northeastern,13,53,Kansas
+2019,Midwest,First Round,Iowa State,6,59,Ohio State,11,62,Ohio State
+2019,Midwest,First Round,Houston,3,84,Georgia State,14,55,Houston
+2019,Midwest,First Round,Wofford,7,56,Seton Hall,10,84,Seton Hall
+2019,Midwest,First Round,Kentucky,2,79,Abilene Christian,15,44,Kentucky
+2019,Midwest,Second Round,North Carolina,1,81,Washington,9,59,North Carolina
+2019,Midwest,Second Round,Auburn,5,89,Kansas,4,75,Auburn
+2019,Midwest,Second Round,Ohio State,11,59,Houston,3,74,Houston
+2019,Midwest,Second Round,Seton Hall,10,56,Kentucky,2,62,Kentucky
+2019,Midwest,Sweet 16,North Carolina,1,80,Auburn,5,97,Auburn
+2019,Midwest,Sweet 16,Houston,3,58,Kentucky,2,62,Kentucky
+2019,Midwest,Elite 8,Auburn,5,77,Kentucky,2,71,Auburn
+2019,Final Four,Final Four,Michigan State,2,61,Texas Tech,3,51,Texas Tech
+2019,Final Four,Final Four,Virginia,1,63,Auburn,5,62,Virginia
+2019,Final Four,Championship,Texas Tech,3,77,Virginia,1,85,Virginia

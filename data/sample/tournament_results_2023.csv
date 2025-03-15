@@ -1,0 +1,64 @@
+year,region,round,team1,seed1,score1,team2,seed2,score2,winner
+2023,South,First Round,Alabama,1,96,Texas A&M-CC,16,75,Alabama
+2023,South,First Round,Maryland,8,67,West Virginia,9,65,Maryland
+2023,South,First Round,San Diego State,5,63,Charleston,12,57,San Diego State
+2023,South,First Round,Virginia,4,67,Furman,13,68,Furman
+2023,South,First Round,Creighton,6,72,NC State,11,63,Creighton
+2023,South,First Round,Baylor,3,74,UC Santa Barbara,14,56,Baylor
+2023,South,First Round,Missouri,7,76,Utah State,10,65,Missouri
+2023,South,First Round,Arizona,2,75,Princeton,15,55,Princeton
+2023,South,Second Round,Alabama,1,73,Maryland,8,51,Alabama
+2023,South,Second Round,San Diego State,5,75,Furman,13,52,San Diego State
+2023,South,Second Round,Creighton,6,85,Baylor,3,76,Creighton
+2023,South,Second Round,Princeton,15,78,Missouri,7,63,Princeton
+2023,South,Sweet 16,Alabama,1,71,San Diego State,5,64,San Diego State
+2023,South,Sweet 16,Creighton,6,86,Princeton,15,75,Creighton
+2023,South,Elite 8,San Diego State,5,57,Creighton,6,56,San Diego State
+2023,East,First Round,Purdue,1,61,Fairleigh Dickinson,16,63,Fairleigh Dickinson
+2023,East,First Round,Memphis,8,73,Florida Atlantic,9,66,Florida Atlantic
+2023,East,First Round,Duke,5,74,Oral Roberts,12,51,Duke
+2023,East,First Round,Tennessee,4,58,Louisiana,13,55,Tennessee
+2023,East,First Round,Kentucky,6,61,Providence,11,53,Kentucky
+2023,East,First Round,Kansas State,3,77,Montana State,14,65,Kansas State
+2023,East,First Round,Michigan State,7,72,USC,10,62,Michigan State
+2023,East,First Round,Marquette,2,78,Vermont,15,61,Marquette
+2023,East,Second Round,Fairleigh Dickinson,16,70,Florida Atlantic,9,78,Florida Atlantic
+2023,East,Second Round,Duke,5,65,Tennessee,4,52,Duke
+2023,East,Second Round,Kentucky,6,75,Kansas State,3,69,Kansas State
+2023,East,Second Round,Michigan State,7,69,Marquette,2,60,Michigan State
+2023,East,Sweet 16,Florida Atlantic,9,62,Tennessee,4,55,Florida Atlantic
+2023,East,Sweet 16,Kansas State,3,98,Michigan State,7,93,Kansas State
+2023,East,Elite 8,Florida Atlantic,9,79,Kansas State,3,76,Florida Atlantic
+2023,Midwest,First Round,Houston,1,63,Northern Kentucky,16,52,Houston
+2023,Midwest,First Round,Iowa,8,75,Auburn,9,83,Auburn
+2023,Midwest,First Round,Miami,5,63,Drake,12,56,Miami
+2023,Midwest,First Round,Indiana,4,71,Kent State,13,60,Indiana
+2023,Midwest,First Round,Iowa State,6,59,Pittsburgh,11,41,Pittsburgh
+2023,Midwest,First Round,Xavier,3,72,Kennesaw State,14,67,Xavier
+2023,Midwest,First Round,Texas A&M,7,67,Penn State,10,76,Penn State
+2023,Midwest,First Round,Texas,2,81,Colgate,15,61,Texas
+2023,Midwest,Second Round,Houston,1,81,Auburn,9,64,Houston
+2023,Midwest,Second Round,Miami,5,85,Indiana,4,69,Miami
+2023,Midwest,Second Round,Pittsburgh,11,59,Xavier,3,84,Xavier
+2023,Midwest,Second Round,Penn State,10,71,Texas,2,66,Texas
+2023,Midwest,Sweet 16,Houston,1,89,Miami,5,75,Miami
+2023,Midwest,Sweet 16,Xavier,3,83,Texas,2,71,Texas
+2023,Midwest,Elite 8,Miami,5,88,Texas,2,81,Miami
+2023,West,First Round,Kansas,1,96,Howard,16,68,Kansas
+2023,West,First Round,Arkansas,8,73,Illinois,9,63,Arkansas
+2023,West,First Round,Saint Mary's,5,63,VCU,12,51,Saint Mary's
+2023,West,First Round,UConn,4,87,Iona,13,63,UConn
+2023,West,First Round,TCU,6,72,Arizona State,11,70,TCU
+2023,West,First Round,Gonzaga,3,82,Grand Canyon,14,70,Gonzaga
+2023,West,First Round,Northwestern,7,75,Boise State,10,67,Northwestern
+2023,West,First Round,UCLA,2,86,UNC Asheville,15,53,UCLA
+2023,West,Second Round,Kansas,1,63,Arkansas,8,72,Arkansas
+2023,West,Second Round,Saint Mary's,5,56,UConn,4,70,UConn
+2023,West,Second Round,TCU,6,70,Gonzaga,3,84,Gonzaga
+2023,West,Second Round,Northwestern,7,63,UCLA,2,68,UCLA
+2023,West,Sweet 16,Arkansas,8,72,UConn,4,88,UConn
+2023,West,Sweet 16,Gonzaga,3,79,UCLA,2,76,Gonzaga
+2023,West,Elite 8,UConn,4,82,Gonzaga,3,54,UConn
+2023,Final Four,Final Four,San Diego State,5,72,Florida Atlantic,9,71,San Diego State
+2023,Final Four,Final Four,Miami,5,59,UConn,4,72,UConn
+2023,Final Four,Championship,San Diego State,5,60,UConn,4,76,UConn

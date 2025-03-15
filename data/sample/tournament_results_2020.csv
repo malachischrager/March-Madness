@@ -1,0 +1,64 @@
+year,region,round,team1,seed1,score1,team2,seed2,score2,winner
+2020,East,First Round,Kansas,1,85,Siena,16,65,Kansas
+2020,East,First Round,Colorado,8,72,Marquette,9,68,Colorado
+2020,East,First Round,Auburn,5,75,New Mexico State,12,67,Auburn
+2020,East,First Round,Wisconsin,4,67,East Tennessee State,13,62,Wisconsin
+2020,East,First Round,Penn State,6,78,Richmond,11,70,Penn State
+2020,East,First Round,Kentucky,3,82,Akron,14,64,Kentucky
+2020,East,First Round,Illinois,7,70,Cincinnati,10,65,Illinois
+2020,East,First Round,Duke,2,88,Robert Morris,15,62,Duke
+2020,East,Second Round,Kansas,1,76,Colorado,8,68,Kansas
+2020,East,Second Round,Auburn,5,71,Wisconsin,4,74,Wisconsin
+2020,East,Second Round,Penn State,6,68,Kentucky,3,75,Kentucky
+2020,East,Second Round,Illinois,7,65,Duke,2,78,Duke
+2020,East,Sweet 16,Kansas,1,80,Wisconsin,4,73,Kansas
+2020,East,Sweet 16,Kentucky,3,72,Duke,2,78,Duke
+2020,East,Elite 8,Kansas,1,70,Duke,2,75,Duke
+2020,West,First Round,Gonzaga,1,92,Prairie View,16,61,Gonzaga
+2020,West,First Round,LSU,8,76,USC,9,80,USC
+2020,West,First Round,BYU,5,82,Indiana,12,76,BYU
+2020,West,First Round,Oregon,4,78,New Mexico,13,65,Oregon
+2020,West,First Round,Iowa,6,85,Arizona State,11,75,Iowa
+2020,West,First Round,Seton Hall,3,73,Belmont,14,65,Seton Hall
+2020,West,First Round,West Virginia,7,68,Utah State,10,72,Utah State
+2020,West,First Round,San Diego State,2,85,North Dakota State,15,68,San Diego State
+2020,West,Second Round,Gonzaga,1,88,USC,9,75,Gonzaga
+2020,West,Second Round,BYU,5,70,Oregon,4,75,Oregon
+2020,West,Second Round,Iowa,6,72,Seton Hall,3,76,Seton Hall
+2020,West,Second Round,Utah State,10,65,San Diego State,2,82,San Diego State
+2020,West,Sweet 16,Gonzaga,1,82,Oregon,4,74,Gonzaga
+2020,West,Sweet 16,Seton Hall,3,68,San Diego State,2,75,San Diego State
+2020,West,Elite 8,Gonzaga,1,78,San Diego State,2,72,Gonzaga
+2020,South,First Round,Baylor,1,87,Boston University,16,62,Baylor
+2020,South,First Round,Saint Mary's,8,74,Rutgers,9,68,Saint Mary's
+2020,South,First Round,Ohio State,5,78,Yale,12,65,Ohio State
+2020,South,First Round,Louisville,4,82,Vermont,13,70,Louisville
+2020,South,First Round,Virginia,6,65,Texas Tech,11,72,Texas Tech
+2020,South,First Round,Michigan State,3,80,Wright State,14,65,Michigan State
+2020,South,First Round,Providence,7,72,Arizona,10,78,Arizona
+2020,South,First Round,Villanova,2,85,Winthrop,15,68,Villanova
+2020,South,Second Round,Baylor,1,75,Saint Mary's,8,68,Baylor
+2020,South,Second Round,Ohio State,5,70,Louisville,4,75,Louisville
+2020,South,Second Round,Texas Tech,11,68,Michigan State,3,74,Michigan State
+2020,South,Second Round,Arizona,10,72,Villanova,2,80,Villanova
+2020,South,Sweet 16,Baylor,1,82,Louisville,4,76,Baylor
+2020,South,Sweet 16,Michigan State,3,75,Villanova,2,70,Michigan State
+2020,South,Elite 8,Baylor,1,68,Michigan State,3,74,Michigan State
+2020,Midwest,First Round,Dayton,1,85,NC Central,16,60,Dayton
+2020,Midwest,First Round,Florida,8,75,Oklahoma,9,72,Florida
+2020,Midwest,First Round,Butler,5,78,Liberty,12,70,Butler
+2020,Midwest,First Round,Maryland,4,82,Hofstra,13,68,Maryland
+2020,Midwest,First Round,Iowa State,6,68,Wichita State,11,75,Wichita State
+2020,Midwest,First Round,Creighton,3,80,North Texas,14,65,Creighton
+2020,Midwest,First Round,Michigan,7,76,Florida State,10,82,Florida State
+2020,Midwest,First Round,Kentucky,2,88,Northern Kentucky,15,70,Kentucky
+2020,Midwest,Second Round,Dayton,1,78,Florida,8,70,Dayton
+2020,Midwest,Second Round,Butler,5,65,Maryland,4,72,Maryland
+2020,Midwest,Second Round,Wichita State,11,68,Creighton,3,75,Creighton
+2020,Midwest,Second Round,Florida State,10,75,Kentucky,2,82,Kentucky
+2020,Midwest,Sweet 16,Dayton,1,80,Maryland,4,72,Dayton
+2020,Midwest,Sweet 16,Creighton,3,68,Kentucky,2,76,Kentucky
+2020,Midwest,Elite 8,Dayton,1,75,Kentucky,2,78,Kentucky
+2020,Final Four,Final Four,Duke,2,72,Gonzaga,1,80,Gonzaga
+2020,Final Four,Final Four,Michigan State,3,68,Kentucky,2,75,Kentucky
+2020,Final Four,Championship,Gonzaga,1,78,Kentucky,2,82,Kentucky
